@@ -1,0 +1,15 @@
+./pre_img\Nikhil Jain\ActiOn_1.png 876 1017 1447 1801
+./pre_img\Nikhil Jain\ActiOn_10.png 3240 471 3723 1071
+./pre_img\Nikhil Jain\ActiOn_11.png 982 304 1175 551
+./pre_img\Nikhil Jain\ActiOn_12.png 1377 2057 1718 2503
+./pre_img\Nikhil Jain\ActiOn_13.png 1808 1591 2154 2028
+./pre_img\Nikhil Jain\ActiOn_14.png 1635 1536 1983 1974
+./pre_img\Nikhil Jain\ActiOn_15.png 2106 1096 2411 1468
+./pre_img\Nikhil Jain\ActiOn_16.png 2711 1393 3005 1751
+./pre_img\Nikhil Jain\ActiOn_17.png 742 160 1457 930
+./pre_img\Nikhil Jain\ActiOn_18.png 863 1182 1299 1715
+./pre_img\Nikhil Jain\ActiOn_19.png 613 123 1247 858
+./pre_img\Nikhil Jain\ActiOn_2.png 1997 949 2221 1220
+./pre_img\Nikhil Jain\ActiOn_3.png 938 1288 1474 1951
+./pre_img\Nikhil Jain\ActiOn_4.png 1822 838 2061 1132
+./pre_img\Nikhil Jain\ActiOn_5.png 1209 1179 1461 1484
